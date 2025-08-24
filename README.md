@@ -1,1 +1,4 @@
 # Anomaly_Detection_Credit_Card_Transactions.
+- Anomaly detection is a critical component of data analysis across various domains such as financial, cybersecurity, healthcare and more.
+- Anomalies, often referred to as outliers or anomalies, are data points or observations that significantly deviate from the expected or normal behavior within a dataset. These deviations can be caused by various factors, such as errors in data collection, rare events, system malfunctions, or even intentional fraudulent activities.
+- The dataset for case study contains transactions made by credit cards in September 2013 by European cardholders. In total, there are 284,807 transactions, 492 of which are frauds. Note that due to confidentiality issues, the features presented in the dataset are not original, but are the result of a PCA transformation. Feature ‘Class’ is the response variable. It takes the value 1 in case of fraud and 0 otherwise.
